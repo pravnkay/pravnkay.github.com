@@ -1,2 +1,1 @@
-# pravnkay.github.com
-Site code
+# pravnkay.github.io
